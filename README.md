@@ -1,5 +1,7 @@
 # TCC_REEL1_RS25_CV Optimization Using Eye-Tracking Insights 
 
+Author : Manai Mohamed Mortadha
+
 Unlock the secrets of recruiter behavior and optimize your CV like a pro! 💼  
 
 Based on **eye-tracking studies**, recruiters typically scan resumes in **F-shaped** or **E-shaped patterns**, focusing on the **top and left side**. By understanding these patterns, you can structure your CV to **capture attention instantly** and land more interviews.  
@@ -72,4 +74,27 @@ This concept is part of my **2025 Instagram Tech Content Creation** series.
 
 ---
 
+# **Connect with Me**
+
+**INSTAGRAM REEL FOR MORE DETAILS**
+[https://www.instagram.com/mortadha_mannai/](https://www.instagram.com/p/DRNdNgUjA64/)
+
+**Website**
+[https://taplink.cc/manaimortadha](https://taplink.cc/manaimortadha)
+
+
+**LinkedIn**
+[https://linkedin.com/in/mannai-mortadha](https://linkedin.com/in/mannai-mortadha)
+
+**GitHub**
+[https://github.com/MortadhaMannai](https://github.com/MortadhaMannai)
+
+**Leetcode**
+[https://github.com/MortadhaMannai](https://leetcode.com/u/mannaimortadha898/
+)
+
+---
+
 💡 *“The first impression matters. Make every pixel count!”*  
+
+
