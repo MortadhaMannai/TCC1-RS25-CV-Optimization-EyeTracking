@@ -7,7 +7,7 @@ Unlock the secrets of recruiter behavior and optimize your CV like a pro! 💼
 Based on **eye-tracking studies**, recruiters typically scan resumes in **F-shaped** or **E-shaped patterns**, focusing on the **top and left side**. By understanding these patterns, you can structure your CV to **capture attention instantly** and land more interviews.  
 
 This concept is part of my **2025 Insta Tech Content Creation series**, sharing actionable insights for career success.  
-
+     
 ---
 
 ## 🔑 Key Areas Recruiters Focus On
