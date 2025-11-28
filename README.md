@@ -1,4 +1,4 @@
-# TCC_REEL1_RS25_CV Optimization Using Eye-Tracking Insights  
+# TCC_REEL1_RS25_CV Optimization Using Eye-Tracking Insights    
 
 Author : Manai Mohamed Mortadha
 
